@@ -28,7 +28,7 @@ $ pip install -r requirements.txt --target lib --no-compile
 * pyasn1
 * pyasn1_modules
 * rsa
-* sixm(Pepper内部のバージョンと競合するためsixmをリネーム)
+* sixm(Pepper内部のバージョンと競合するためsixをリネーム)
 * uritemplate
 
 #### [GoogleSTT]
